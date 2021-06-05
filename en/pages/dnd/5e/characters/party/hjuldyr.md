@@ -1,6 +1,6 @@
 # Hjuldyr Cavernlord
 
-## Basic Information ![hjuldyr_avi](/pages/uploads/images/hjuldyr_short.PNG) 
+## Basic Information ![hjuldyr_avi](pages/uploads/images/hjuldyr_short.PNG) 
 ```
 **Character Name**: Hjuldyr Cavernlord                            **Height**: 4'6"
 **Player Name**: Hudd-E Fresh                                     **Weight**: 143 lbs
