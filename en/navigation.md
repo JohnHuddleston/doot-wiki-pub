@@ -3,7 +3,6 @@
 [gimmick:theme](readable)
 
 [D&D]()
-  * [Main](pages/dnd/dnd_root.md)
   * # 5e
   * [Characters](pages/dnd/5e/characters/chars_root.md)
   * [Session Log](pages/dnd/5e/log/log_root.md)
